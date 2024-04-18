@@ -23,3 +23,14 @@ Make sure to add and push the pkl or text file of your scraped html (this is spe
 * (Question 11) Number of sentences printed: 1 pt
 * (Question 12) Thoughtful answer based on reported polarity scores: 1 pt
 * (Question 13) Thoughtful answer based on summaries: 1 pt
+
+
+Tools:
+Install beautifulsoup4
+Install html5lib
+Install requests
+Install spacy
+Install spacytextblob
+Install matplotlib
+Spacy download en_core_web_sm
+Install tabulate
